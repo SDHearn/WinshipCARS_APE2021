@@ -1,3 +1,5 @@
+#The WinshipCARS_APE2021 SQL file was used to deliver distinct counts of cancer diagnoses per person represented in the CARS database. 
+
 --Winship CARS Cancer Cohort Profile
 
 SELECT
