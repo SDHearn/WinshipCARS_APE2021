@@ -4,4 +4,5 @@ Posting data profiling SQL codes to a shared repository.
 
 ## SQL Code Descriptions
 
-### code1.sql 
+### FinalSQL Script Training.sql 
+Unique Conditions withing Winship CARS
