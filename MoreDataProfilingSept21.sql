@@ -1,4 +1,6 @@
 
+### -Base query for getting all descendants of a cancer GROUP
+
 *****************************************************************************
 ********--Base query for getting all descendants of a cancer GROUP **********
 *****************************************************************************
