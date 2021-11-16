@@ -1,3 +1,4 @@
+
 WITH unique_condition_counts_per_person AS 
   (
 	SELECT
