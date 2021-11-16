@@ -10,5 +10,5 @@ Base Queries, exploring descendants, and identifying prevalent cancer groups
 ### FinalSQL Script Training.sql
 Unique Conditions within Winship CARS
 
-**associated output file:** MoreSQLProfiling_202110151450.csv
+**associated output file:** .[MoreSQLProfiling_202110151450.csv] (
 ### 
